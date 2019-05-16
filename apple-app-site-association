@@ -1,21 +1,16 @@
 {
     "webcredentials": {
         "apps": [
-            "Y23HMH44DM.com.smw.autofill",
-            "Y23HMH44DM.com.smw.autofill.QA",
-            "Y23HMH44DM.com.smw.autofill.Dev"
-
+            "RE6E5JCJVJ.com.smw.autofill"
         ]
     },
     "applinks": {
         "apps": [
-            "Y23HMH44DM.com.smw.autofill",
-            "Y23HMH44DM.com.smw.autofill.QA",
-            "Y23HMH44DM.com.smw.autofill.Dev"
+            "RE6E5JCJVJ.com.smw.autofill"
         ],
         "details": [
             {
-                "appID": "Y23HMH44DM.com.smw.autofill",
+                "appID": "RE6E5JCJVJ.com.smw.autofill",
                 "paths": [
                     "*"
                 ]
