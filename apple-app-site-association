@@ -1,12 +1,17 @@
 {
     "webcredentials": {
         "apps": [
-            "Y23HMH44DM.com.smw.autofill"
+            "Y23HMH44DM.com.smw.autofill",
+            "Y23HMH44DM.com.smw.autofill.QA",
+            "Y23HMH44DM.com.smw.autofill.Dev"
+
         ]
     },
     "applinks": {
         "apps": [
-            "Y23HMH44DM.com.smw.autofill"
+            "Y23HMH44DM.com.smw.autofill",
+            "Y23HMH44DM.com.smw.autofill.QA",
+            "Y23HMH44DM.com.smw.autofill.Dev"
         ],
         "details": [
             {
