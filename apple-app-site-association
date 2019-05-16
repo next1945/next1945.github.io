@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "Y23HMH44DM.com.smw.autofill"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "Y23HMH44DM.com.smw.autofill"
+        ],
+        "details": [
+            {
+                "appID": "Y23HMH44DM.com.smw.autofill",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
