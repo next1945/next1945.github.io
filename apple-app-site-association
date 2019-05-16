@@ -3,18 +3,5 @@
         "apps": [
             "RE6E5JCJVJ.com.smw.autofill"
         ]
-    },
-    "applinks": {
-        "apps": [
-            "RE6E5JCJVJ.com.smw.autofill"
-        ],
-        "details": [
-            {
-                "appID": "RE6E5JCJVJ.com.smw.autofill",
-                "paths": [
-                    "*"
-                ]
-            }
-        ]
     }
 }
